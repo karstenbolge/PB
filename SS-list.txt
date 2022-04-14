@@ -1,0 +1,349 @@
+Williams
+1989-11	Bad Cats
+1988-05	Banzai Run
+1987-09	Big Guns
+1989-04	Black Knight 2000
+1993-04	Bram Stoker's Dracula
+1985-06	Comet
+1995-11	Congo
+1988-02	Cyclone
+1994-02	Demolition Man
+1990-06	Diner
+1995-03	Dirty Harry
+1989-02	Earthshaker
+1987-03	F-14 Tomcat
+1987-06	Fire!
+1992-10	Fish Tales
+1990-11	Funhouse
+1986-04	Grand Lizard
+1986-01	High Speed
+1991-08	Hurricane
+1993-08	Indiana Jones: The Pinball Adventure
+1995-10	Jack·Bot
+1995-08	Johnny Mnemonic
+1988-12	Jokerz!
+1996-12	Junk Yard
+1997-06	Medieval Madness
+1987-01	Millionaire	Williams
+1998-07	Monster Bash
+1995-05	No Fear: Dangerous Sports
+1997-12	No Good Gofers	Williams
+1986-10	PIN·BOT
+1989-08	Police Force	Williams	SS	4,751		4p	573	42	7.6
+1994-10	Red & Ted's Road Show
+1990-08	Riverboat Gambler
+1986-07	Road Kings
+1990-04	Rollergames
+1987-12	Space Station
+1993-11	Star Trek: The Next Generation
+1999-06	Star Wars Episode I
+1988-06	Swords of Fury
+1996-05	Tales of the Arabian Nights
+1988-08	Taxi
+1991-07	Terminator 2: Judgment Day
+1994-07	The Flintstones	Williams
+1992-02	The Getaway: High Speed II
+1991-02	The Machine: Bride of Pin·bot
+1990-01	Whirlwind
+1993-01	White Water
+
+Midway
+1989-03	Atlantis
+1995-12	Attack from Mars
+1992-07	Black Rose
+1990-12	Bugs Bunny's Birthday Ball
+1998-10	Cactus Canyon
+1997-10	Cirqus Voltaire
+1994-08	Corvette
+1992-12	Creature from the Black Lagoon
+1992-09	Doctor Who
+1990-08	Dr. Dude And His Excellent Ray
+1989-09	Elvira and the Party Monsters
+1991-05	Gilligan's Island
+1991-02	Harley-Davidson
+1995-06	Indianapolis 500
+1993-09	Judge Dredd
+1989-11	Mousin' Around!
+1997-03	NBA Fastbreak
+1990-03	Pool Sharks
+1994-02	Popeye Saves the Earth
+1990-06	Radical!
+1999-01	Revenge From Mars	Midway	SS	6,878		4p	50070	47	8.0
+1996-03	Safe Cracker
+1996-09	Scared Stiff
+1992-03	The Addams Family
+1990-01	The Bally Game Show
+1998-04	The Champion Pub
+1991-08	The Party Zone
+1994-11	The Shadow
+1995-03	Theatre of Magic
+1989-06	Transporter the Rescue
+1988-11	Truck Stop
+1993-04	Twilight Zone
+1995-09	WHO dunnit
+1994-02	World Cup Soccer
+
+Bally
+1985-11	Beat the Clock
+1984	Big Bat
+1986-06	Black Belt
+1984-07	Black Pyramid
+1988-03	Blackwater
+1983-06	Centaur II
+1987-03	City Slicker
+1985-05	Cybernaut
+1987-10	Dungeons & Dragons
+1985-08	Eight Ball Champ
+1984	Eight Ball Deluxe
+1988-01	Escape from the Lost World
+1985-02	Fireball Classic
+1983-10	Gold Ball
+1983-03	Grand Slam
+1987-04	Hardbody
+1987-08	Heavy Metal Meltdown
+1984-03	Kings of Steel
+1986-06	Motordome
+1987-05	Party Animal
+1988-06	Ramp Warrior
+1986-09	Special Force
+1984-10	Spy Hunter
+1986-11	Strange Science
+1984-02	X's & O's
+
+Bally
+1982-10 Baby Pac-Man
+1973-11	Bally Alley
+1978-06	Black Jack
+1983-01	BMX	Bally
+1978-01	Bobby Orr Power Play
+1981-10	Centaur	Bally
+1979-11	Dolly Parton
+1977-09	Eight Ball
+1981-04	Eight Ball Deluxe
+1981-12	Elektra	Bally
+1981-06	Embryon	Bally
+1977-06	Evel Knievel
+1981-08	Fathom
+1976-10	Fireball
+1981-06	Fireball II
+1981-02	Flash Gordon
+1976-12	Freedom
+1980-11	Frontier
+1979-12	Future Spa
+1980-07	Hotdoggin'
+1978-08	Lost World
+1978-04	Mata Hari
+1981-09	Medusa
+1980-06	Mystic
+1979-06	Paragon
+1978-12	Playboy
+1982-04	Rapid Fire
+1980-05	Rolling Stones
+1980-02	Silverball Mania
+1980-09	Skateball
+1980-04	Space Invaders
+1982-08	Speakeasy
+1982-06	Spectrum
+1978-06	Strikes and Spares
+1979-03	Supersonic
+1982-02	Vector
+1980-07	Viking
+1980-11	Xenon
+
+
+Sega
+1995-10	Apollo 13
+1995-07	Batman Forever
+1995-02	Baywatch
+1997	Derby Daze
+1998-08	Godzilla
+1998-06	Golden Cue
+1996-03	Goldeneye
+1999-09	Harley-Davidson®
+1996-07	Independence Day
+1998-05	Lost In Space
+1995-01	Mary Shelley's Frankenstein
+1996-06	Mini-Viper
+1997-02	Roach Racers
+1999-02	South Park
+1996-12	Space Jam
+1997-12	Starship Troopers
+1997-06	The Lost World Jurassic
+1997-03	The Star Wars Trilogy Special Edition
+1997-09	The X Files
+1996-04	Twister
+1998	Viper Night Drivin'
+
+Data East
+1993-02	Adventures of Rocky and Bullwinkle and Friends
+1990-06	Back to the Future
+1991-07	Batman
+1991-02	Checkpoint
+1994-06	Guns N' Roses
+1992-01	Hook
+1993-04	Jurassic Park
+1987-05	Laser War
+1993-08	Last Action Hero
+1992-06	Lethal Weapon 3
+1989-09	Monday Night Football
+1990-01	Phantom of the Opera
+1989-05	Playboy 35th Anniversary
+1989-11	Robocop
+1988-03	Secret Service
+1991-10	Star Trek
+1992-10	Star Wars
+1993-11	Tales from the Crypt
+1991-05	Teenage Mutant Ninja Turtles
+1990-09	The Simpsons
+1994-01	The Who's Tommy
+1988-12	Time Machine
+1988-08	Torpedo Alley
+1994-04	WWF Royal Rumble
+
+Stern I
+1980-03	Ali
+1980-03	Big Game
+1981-10	Catacomb
+1980-06	Cheetah
+1979-01	Dracula
+1981-11	Dragonfist
+1980-08	Flight 2000
+1981-01	Freefall
+1980-01	Galaxy
+1979-05	Hot Hand
+1982-01	Iron Maiden
+1978-08	Lectronamo
+1981-03	Lightning
+1979-08	Magic
+1978-06	Memory Lane
+1979-09	Meteor
+1980-12	Nine Ball
+1978-11	Nugent
+1982-02	Orbitor 1
+1977-09	Pinball
+1980-06	Quicksilver
+1980-05	Seawitch
+1981-08	Split Second
+1980-08	Star Gazer
+1978-03	Stars
+1977-12	Stingray
+1979-03	Trident
+1981-10	Viper
+1978-10	Wild Fyre
+
+Stern II
+2009-02 24™	
+2012-03	AC/DC
+2017-03	Aerosmith
+2001-06	Austin Powers™
+2013-01	Avengers The Pin™
+2008-07	Batman
+2016-12	Batman (66 Premium)
+2010-01	Big Buck Hunter
+2019-05	Black Knight Sword of Rage
+2008-11	CSI
+2007	Dale Jr.
+2018-08	Deadpool
+2011	Disney TRON Legacy
+2019-10	Elvira's House of Horrors
+2004-08	Elvis®
+2007	Family Guy
+2015-12	Game of Thrones
+2016-05	Ghostbusters
+2021-09	Godzilla
+2005	Grand Prix
+2017-12	Guardians of the Galaxy
+1999	Harley-Davidson®
+2020-12	Heavy Metal
+2001-01	High Roller Casino
+2008-04	Indiana Jones
+2018-04	Iron Maiden Legacy Of The Beast
+2010	Iron Man
+2010-08	James Cameron’s Avatar
+2021-10	Jurassic Park
+2015-07	KISS
+2021-01	Led Zeppelin
+2015-02	Legends of Wrestlemania
+2013	Metallica
+2001-09	Monopoly™
+2014-05	Mustang
+2005-08	NASCAR®
+2009	NBA
+2020-01	Netflix Stranger Things
+2001-11	NFL
+2006-07	Pirates of the Caribbean
+2002-01	Playboy®
+2018-12	Primus
+2004-03	Ripley's Believe It or Not!®
+2002-08	RollerCoaster Tycoon
+2022-02	Rush
+2000-09	Sharkey's Shootout
+2008	Shrek™
+2016	Spider-Man
+2013-01	Star Trek
+2019-10	Star Wars
+2021-06	Star Wars The Mandalorian
+2000-01	Striker Xtreme
+2018-05	Supreme
+2020-06	Teenage Mutant Ninja Turtles
+2003-06	Terminator 3: Rise of the Machines
+2012	The Avengers
+2020-09	The Avengers Infinity Quest
+2018-11	The Beatles
+2003-12	The Lord of the Rings
+2019-03	The Munsters
+2016-07	The Pabst Can Crusher
+2011	The Rolling Stones
+2003-02	The Simpsons Pinball Party
+2005-02	The Sopranos®
+2014-11	The Walking Dead
+2012	Transformers The Pin™
+2007-10	Wheel Of Fortune	Stern	SS			4p	I-0098	73	7.4
+2015-03	Whoa Nellie! Big Juicy Melons™
+2006-02	World Poker Tour™
+2015-01	Wrestlemania
+2012-08	X-Men
+
+Gottlieb
+1983-09	Amazon Hunt
+1981-10	Black Hole
+1977-03	Bronco
+1980-01	Buck Rogers
+1982-09	Caveman
+1977-08	Centigrade 37
+1978-11	Charlie's Angels
+1980-06	Circus
+1977-12	Cleopatra
+1978-08	Close Encounters of the Third Kind
+1979-04	Count-Down
+1980-08	Counterforce
+1982-08	Devil's Dare
+1978-10	Dragon
+1982	Eclipse
+1981-02	Force II
+1979-10	Genie
+1982-06	Haunted House
+1980-10	James Bond 007
+1978-06	Joker Poker
+1981-03	Mars God of War
+1980-06	Panthera
+1979-06	Pinball Pool
+1981-03	Pink Panther
+1982-12	Punk!
+1983-03	Q*Bert's Quest
+1982-09	Rocky
+1980-02	Roller Disco
+1983-06	Royal Flush Deluxe
+1978-02	Sinbad
+1979-02	Solar Ride
+1982-11	Spirit
+ 980-10	Star Race
+1982-11	Striker
+1983-05	Super Orbit
+1980-05	The Amazing Spider-Man
+1979-10	The Incredible Hulk	Gottlieb
+1980-12	Time Line
+1980-02	Torch
+1979-08	Totem
+1981-09	Volcano
+1977-10	Vulcan
